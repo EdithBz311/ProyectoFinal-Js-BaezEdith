@@ -1,0 +1,122 @@
+
+[{
+        "nombre": "Buzo Champ",
+        "imagen": "./images/Buzo-Champion.jpg",
+        "codigo": 1,
+        "precio": 4500,
+        "cantidad": 0
+    },
+    {
+        "nombre": "Buzo Mc",
+        "imagen": "./images/buzomc.jpg",
+        "codigo": 2,
+        "precio": 5320,
+        "cantidad": 0
+    },
+    {
+        "nombre": "Buzo Claus",
+        "imagen": "./images/Buzo-Claus.jpg",
+        "codigo": 3,
+        "precio": 7050,
+        "cantidad": 0
+    },
+    {
+        "nombre": "Buzo Black",
+        "imagen": "./images/buzo-black.jpg",
+        "codigo": 4,
+        "precio": 3799,
+        "cantidad": 0
+
+    },
+    {
+        "nombre": "Buzo Red Woof",
+        "imagen": "./images/buzo-red-woof.jpg",
+        "codigo": 4,
+        "precio": 4655,
+        "cantidad": 0
+
+    },
+    {
+        "nombre": "Buzo Versach",
+        "imagen": "./images/buzo-versach.jpg",
+        "codigo": 4,
+        "precio": 6000,
+        "cantidad": 0
+
+    },
+    {
+        "nombre": "Buzo Woof",
+        "imagen": "./images/buzo-woof.jpg",
+        "codigo": 4,
+        "precio": 4655,
+        "cantidad": 0
+
+    },
+    {
+        "nombre": "Camiseta Banana",
+        "imagen": "./images/Camiseta-Banana.jpg",
+        "codigo": 4,
+        "precio": 3050,
+        "cantidad": 0
+
+    },
+    {
+        "nombre": "Camiseta Glam",
+        "imagen": "./images/camiseta-glam.jpg",
+        "codigo": 4,
+        "precio": 4230,
+        "cantidad": 0
+
+    },
+    {
+        "nombre": "Buzo Camuflado",
+        "imagen": "./images/camuflado.jpg",
+        "codigo": 4,
+        "precio": 3899,
+        "cantidad": 0
+    },
+    {
+        "nombre": "Gorro Dont Forget",
+        "imagen": "./images/gorro-dont-forget.jpg",
+        "codigo": 4,
+        "precio": 2000,
+        "cantidad": 0
+    },
+    {
+        "nombre": "Pretal Black",
+        "imagen": "./images/pretal-black.jpg",
+        "codigo": 4,
+        "precio": 3050,
+        "cantidad": 0
+    },
+    {
+        "nombre": "Pretal Super",
+        "imagen": "./images/pretal-super.jpg",
+        "codigo": 4,
+        "precio": 4050,
+        "cantidad": 0
+
+    },
+    {
+        "nombre": "Camiseta River",
+        "imagen": "./images/river.jpg",
+        "codigo": 4,
+        "precio": 3050,
+        "cantidad": 0
+
+    },
+    {
+        "nombre": "Salva-vida",
+        "imagen": "./images/salva-vida.jpg",
+        "codigo": 4,
+        "precio": 5050,
+        "cantidad": 0
+    },
+    {
+        "nombre": "Chaleco Uni",
+        "imagen": "./images/Chaleco-University.jpg",
+        "codigo": 5,
+        "precio": 6899,
+        "cantidad": 0
+    }
+]
